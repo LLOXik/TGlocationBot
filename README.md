@@ -1,10 +1,8 @@
 # TGlocationBot
 This telegram bot accepts coordinates and returns geolocation
 
-Replace TOKEN_API in config.ini
+Replace TOKEN_API in config.py
 
 Этот телеграм-бот принимает координаты и возвращает геопозицию
 
-Замените TOKEN_API в config.ini
-
-Я совсем начинающий (учусь первый месяц), так что не судите строго.
+Замените TOKEN_API в config.py
