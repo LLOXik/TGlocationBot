@@ -6,3 +6,5 @@ Replace TOKEN_API in config.py
 Этот телеграм-бот принимает координаты и возвращает геопозицию
 
 Замените TOKEN_API в config.py
+
+wtf bro no one needs this shitcode
